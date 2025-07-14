@@ -5,19 +5,22 @@
 
 Diese Platine dient als Drehzahlregler für einen DC-Motor mit einer dauerhaften Stromaufnahme von max. 16A (max. Steckerbelastung). Der Startstrom kann kurzfristig 20A betragen.
 
+### technische Spezifikationen
+
+Versorgungsspannung: 7V ... 15 V  
+max. Versorgungstrom: 16 A (Steckerlimit)  
+benötigte Vorsicherung: 20 A  
+PWM-Frequenz: 19 kHz ... 21 kHz  
+Umgebungstemperatur: -40°C ... 50°C  
+
 ### Lieferumfang:
 
 • mini fan control - Platine  
 • Gehäuse Oberseite	(3D Druck)  
 • Gehäuse Unterseite	(3D Druck)  
-• Versorgungsstecker-Kabel vorkonfektioniert  
-    - 2x Einzelader schwarz 2,5mm² 70cm  
-    - 2x Einzelader rot 2,5mm² 70cm  
-• Gebläseschalter-Kabel vorkonfektioniert  
-    - 4-fach Kabel 0,34mm² 50cm  
-• Potentiometer-Kabel vorkonfektioniert  
-    - 3-fach Kabel 0,25mm² 50cm  
-    - 10k Potentiometer 20mm D-shaft  
+• Versorgungsstecker-Kabel vorkonfektioniert (2x Einzelader schwarz 2,5mm² 70cm / 2x Einzelader rot 2,5mm² 70cm)  
+• Gebläseschalter-Kabel vorkonfektioniert (4-fach Kabel 0,34mm² 50cm, Gebläseschalter-Stecker (3D-Druck))  
+• Potentiometer-Kabel vorkonfektioniert (3-fach Kabel 0,25mm² 50cm / 10k Potentiometer 20mm D-shaft)  
 • Potentiometer Drehknopf  
 • 3 Stk. M3x16 Senkkopf-Schrauben kreuz  
 
