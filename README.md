@@ -53,13 +53,19 @@ Diese Platine dient als Drehzahlregler für einen DC-Motor mit einer dauerhaften
 
 ### Lieferumfang
 
-• mini fan control - Platine  
-• Gehäuse Oberseite	(3D Druck)  
-• Gehäuse Unterseite	(3D Druck)  
-• Versorgungsstecker-Kabel vorkonfektioniert (2x Einzelader schwarz 2,5mm² 70cm / 2x Einzelader rot 2,5mm² 70cm)  
-• Gebläseschalter-Kabel vorkonfektioniert (4-fach Kabel 0,34mm² 50cm, Gebläseschalter-Stecker (3D-Druck))  
-• Potentiometer-Kabel vorkonfektioniert (3-fach Kabel 0,25mm² 50cm / 10k Potentiometer 20mm D-shaft)  
-• Potentiometer Drehknopf  
-• 3 Stk. M3x16 Senkkopf-Schrauben kreuz  
+- mini fan control - Platine  
+- Gehäuse Oberseite	(3D Druck)  
+- Gehäuse Unterseite	(3D Druck)  
+- Versorgungsstecker-Kabel vorkonfektioniert
+  - 2x Einzelader schwarz 2,5mm² 70cm  
+  - 2x Einzelader rot 2,5mm² 70cm  
+- Gebläseschalter-Kabel vorkonfektioniert
+  - 4-fach Kabel 0,34mm² 50cm
+  - Gebläseschalter-Stecker (3D-Druck)  
+- Potentiometer-Kabel vorkonfektioniert
+  - 3-fach Kabel 0,25mm² 50cm
+  - 10k Potentiometer 20mm D-shaft  
+- Potentiometer Drehknopf  
+- 3 Stk. M3x16 Senkkopf-Schrauben kreuz  
 
 <img width="500" height="500" alt="MFC_REV1b_Drehzahl" src="https://github.com/user-attachments/assets/f49f6c45-e8cd-476c-ba89-ab7b54683a2c" />
