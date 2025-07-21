@@ -41,7 +41,7 @@ This circuit board serves as a speed controller for a DC motor with a continuous
 </tr>
 <tr>
   <td>
-    ambient temperature
+    operating temperature
   </td>
   <td colspan="2">
     -40°C ... 50°C
