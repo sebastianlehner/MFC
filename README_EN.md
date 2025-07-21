@@ -54,9 +54,9 @@ This circuit board serves as a speed controller for a DC motor with a continuous
 ### scope of delivery
 
 - mini fan control - circuit board
-- housing top side (3D print)
-- housing underside (3D print)
-- supply plug cable pre-assembled
+- housing top (3D print)
+- housing bottom (3D print)
+- supply cable pre-assembled
   - 2x single wire black 2.5mm² 70cm
   - 2x single wire red 2.5mm² 70cm
 - blower switch cable pre-assembled
