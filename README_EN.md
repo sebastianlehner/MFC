@@ -51,7 +51,7 @@ This circuit board serves as a speed controller for a DC motor with a continuous
   
 
 
-### Scope of delivery
+### scope of delivery
 
 - mini fan control - circuit board
 - housing top side (3D print)
