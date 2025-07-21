@@ -1,6 +1,6 @@
 # mini fan control REV1b
 
-<img width="400" height="400" alt="MFC_REV1b_overview" src="https://github.com/user-attachments/assets/fe4e7c6a-65da-42d5-ac3c-d453ac1c43dd" />
+<img width="400" height="400" alt="mini_fan_control_REV1b_Uebersicht" src="https://github.com/user-attachments/assets/3f47e91c-7e48-4195-b008-d733e358b581" />
 <img width="355" height="300" alt="MFC_REV1b_dimensions" src="https://github.com/user-attachments/assets/4f30eae7-aa1e-4ce4-a4a7-f0a8c3bc0b58" />
 
 Diese Platine dient als Drehzahlregler für einen DC-Motor mit einer dauerhaften Stromaufnahme von max. 16A (max. Steckerbelastung). Der Startstrom kann kurzfristig 20A betragen.
