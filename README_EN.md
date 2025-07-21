@@ -5,7 +5,7 @@
 
 This circuit board serves as a speed controller for a DC motor with a continuous current consumption of max. 16A (max. plug load) -> 200W blower fan. The starting current can be 20A for a short time.
 
-### spezifications
+### specifications
 <table class="vclTable">
   <tr>
     <td>
