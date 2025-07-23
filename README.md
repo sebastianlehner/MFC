@@ -68,4 +68,4 @@ Diese Platine dient als Drehzahlregler für einen DC-Motor mit einer dauerhaften
 - Potentiometer Drehknopf  
 - 3 Stk. M3x16 Senkkopf-Schrauben kreuz  
 
-<img width="500" height="500" alt="MFC_REV1b_Drehzahl" src="https://github.com/user-attachments/assets/f49f6c45-e8cd-476c-ba89-ab7b54683a2c" />
+<img width="500" height="500" alt="mini_fan_control_REV1b_Bedienung" src="https://github.com/user-attachments/assets/3a3ca9ec-4b92-4fd7-9cde-8c0eec59ec39" />
