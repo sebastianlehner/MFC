@@ -1,4 +1,6 @@
-# mini fan control REV1b
+# mini fan control REV1b  
+DE - [Bedienungsanleitung](https://github.com/sebastianlehner/MFC/blob/main/mini_fan_control_REV1b_DE.pdf)  
+EN - [manual](https://github.com/sebastianlehner/MFC/blob/main/mini_fan_control_REV1b_EN.pdf)  
 
 <img width="400" height="400" alt="mini_fan_control_REV1b_Uebersicht" src="https://github.com/user-attachments/assets/3f47e91c-7e48-4195-b008-d733e358b581" />
 <img width="355" height="300" alt="MFC_REV1b_dimensions" src="https://github.com/user-attachments/assets/4f30eae7-aa1e-4ce4-a4a7-f0a8c3bc0b58" />
